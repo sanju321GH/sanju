@@ -1,0 +1,27 @@
+#box{
+    position: fixed;
+     left: 550px;
+     top: 50px;
+    width: 300px;
+    height: 475px;
+    /* border: 5px solid black; */
+    padding: 25px;
+    font-family: sans-serif;
+    text-align: center;
+    background-color: white;
+    border-radius: 30px;
+}
+body{
+    background-image: url(/Screenshot\ 2023-10-01\ 105219.png);
+}
+img{
+    border-radius: 20px;
+}
+h4{
+    font-size: 14px;
+    opacity: 0.5;
+    font-weight: 100;
+}
+h1{
+    font-weight: 300;
+}
